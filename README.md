@@ -1,1 +1,1 @@
-# API NPB
+# Rozwiązanie zadania związanego z wyliczaniem najlepszego okresu dla kupna/sprzedaży złota wg API NBP. 
